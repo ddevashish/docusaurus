@@ -46,7 +46,7 @@
     "@babel/preset-typescript": "^7.12.16",
     "@babel/runtime": "^7.12.5",
     "@babel/runtime-corejs3": "^7.12.13",
-    "@babel/traverse": "^7.12.13",
+    "@babel/traverse": "^7.23.2",
     "@docusaurus/cssnano-preset": "2.0.0-alpha.75",
     "@docusaurus/react-loadable": "5.5.0",
     "@docusaurus/types": "2.0.0-alpha.75",
