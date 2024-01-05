@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@crowdin/cli": "^3.5.2",
-    "@crowdin/crowdin-api-client": "^1.10.6",
+    "@crowdin/crowdin-api-client": "^1.22.0",
     "@docusaurus/core": "2.0.0-alpha.75",
     "@docusaurus/plugin-client-redirects": "2.0.0-alpha.75",
     "@docusaurus/plugin-ideal-image": "2.0.0-alpha.75",
