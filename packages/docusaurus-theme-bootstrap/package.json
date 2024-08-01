@@ -21,7 +21,7 @@
     "@docusaurus/theme-common": "2.0.0-alpha.75",
     "@docusaurus/types": "2.0.0-alpha.75",
     "@mdx-js/react": "^1.6.21",
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^5.0.0",
     "classnames": "^2.2.6",
     "clsx": "^1.1.1",
     "prism-react-renderer": "^1.1.1",
