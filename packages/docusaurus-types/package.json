@@ -15,9 +15,9 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^5.1.0",
-    "joi": "^17.4.0",
+    "joi": "^17.7.1",
     "querystring": "0.2.0",
-    "webpack": "^5.28.0",
+    "webpack": "^5.90.0",
     "webpack-merge": "^5.7.3"
   }
 }
