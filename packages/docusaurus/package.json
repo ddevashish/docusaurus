@@ -62,7 +62,7 @@
     "chokidar": "^3.5.1",
     "clean-css": "^5.1.1",
     "commander": "^5.1.0",
-    "copy-webpack-plugin": "^8.1.0",
+    "copy-webpack-plugin": "^13.0.0",
     "core-js": "^3.9.1",
     "css-loader": "^5.1.1",
     "css-minimizer-webpack-plugin": "^2.0.0",
