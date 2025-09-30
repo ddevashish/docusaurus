@@ -19,7 +19,7 @@
     "@docusaurus/utils": "2.0.0-alpha.75",
     "@docusaurus/utils-validation": "2.0.0-alpha.75",
     "algoliasearch": "^4.8.4",
-    "algoliasearch-helper": "^3.3.4",
+    "algoliasearch-helper": "^3.11.2",
     "clsx": "^1.1.1",
     "eta": "^1.12.1",
     "lodash": "^4.17.20"
